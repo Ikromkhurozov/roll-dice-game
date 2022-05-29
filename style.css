@@ -162,7 +162,7 @@ main {
 }
 
 .player--winner {
-  background-color: #2f2f2f;
+  background-color: rgba(22, 23, 22, 0.8);
 }
 
 .player--winner .name {
